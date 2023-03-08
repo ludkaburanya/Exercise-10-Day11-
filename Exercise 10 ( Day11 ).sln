@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 10 ( Day11 )", "Exercise 10 ( Day11 )\Exercise 10 ( Day11 ).csproj", "{35573F9E-CF6B-4F66-B5D8-CED43FA6240E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "z2", "z2\z2.csproj", "{F2CB313F-FD59-4538-836B-60C180506619}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35573F9E-CF6B-4F66-B5D8-CED43FA6240E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35573F9E-CF6B-4F66-B5D8-CED43FA6240E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35573F9E-CF6B-4F66-B5D8-CED43FA6240E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35573F9E-CF6B-4F66-B5D8-CED43FA6240E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2CB313F-FD59-4538-836B-60C180506619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2CB313F-FD59-4538-836B-60C180506619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2CB313F-FD59-4538-836B-60C180506619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2CB313F-FD59-4538-836B-60C180506619}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D0BB499-8752-4FA2-9016-980DEF2F45C5}
+	EndGlobalSection
+EndGlobal
